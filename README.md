@@ -65,4 +65,28 @@ They should be treated as **secondary tags** in annotation or model output.
 
 ### Notes
 - **Every segment** should be classified into **exactly one of the four core categories** (1–4).  
-- **Attributes (5)** can be assigned in addition to the main category, providing extra semantic detail.    
+- **Attributes (5)** can be assigned in addition to the main category, providing extra semantic detail (only if feasible).
+
+
+## Annotation Protocol
+
+1. **Segmentation:**  
+   - Videos are split into 10–15 second **segments**.  
+   - Each segment must receive **exactly one primary scene label** (1–4).  
+   - Cross-cutting attributes (5) may be assigned in addition, if present.  
+
+2. **Segment-Level Example:**  
+   - *Scene:* Street protest with Palestinian flags -->> `Protest & Mobilization`  
+   - *Attributes:* Flags -->> `Flags & emblems`  
+
+3. **Video-Level Aggregation:**  
+   - A video may contain **multiple scene types**, depending on its segments.  
+   - The video’s overall label is the **union of all scene labels** across segments.  
+   - Attributes are also aggregated at the video level.  
+
+   **Example:**  
+   - Segments: `[Conflict & Security]`, `[Protest & Mobilization + Flags]`, `[Institutional & Media Settings + Posters]`  
+   - Video-level summary:  
+     - **Scenes:** `Conflict & Security`, `Protest & Mobilization`, `Institutional & Media Settings`  
+     - **Attributes:** `Flags & emblems`, `Posters / inscriptions` (only if feasible).
+
