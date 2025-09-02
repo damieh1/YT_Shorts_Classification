@@ -57,9 +57,31 @@ Scenes of **formal communication or controlled environments**.
 These are **not standalone scene types**, but important **features that can occur in any category**.  
 They should be treated as **secondary tags** in annotation or model output.
 
-- **Flags & emblems:** Israeli, Palestinian, organizational, or political symbols  
-- **Posters / flyers / inscriptions:** protest signs, BDS material, OCR-relevant text  
-- **Memorial / mourning symbols:** candles, flowers, portraits, tributes  
+### Flags & Emblems
+Visual symbols of identity, belonging, or political alignment.  
+- National flags: Israeli, Palestinian, American, Turkish, etc.  
+- Political movement flags: Hamas, Hezbollah, Fatah, Islamic Jihad, student groups  
+- Organizational emblems: UN, Red Cross/Red Crescent, Amnesty International  
+- Flag displays: waved in crowds, draped over bodies, hanging from balconies, painted on walls  
+- Symbolic clothing: keffiyehs, IDF uniforms, armbands with insignia  
+
+### Posters / Flyers / Inscriptions
+Printed or written text meant to convey a message.  
+- Protest placards: “Free Palestine,” “Ceasefire Now,” “Stop the Occupation”  
+- Flyers/leaflets: calls for demonstrations, boycott/divestment campaigns (BDS)  
+- Wall inscriptions / graffiti: slogans, political messages, murals  
+- Banners: stretched across streets, hung from buildings, behind podiums  
+- Digital posters / screenshots: social media announcements or infographics shown in videos  
+
+### Memorial / Mourning Symbols
+Objects and rituals connected to grief, tribute, or remembrance.  
+- Candlelight vigils: groups holding candles, night-time gatherings  
+- Flowers and wreaths: laid at sites of attacks or memorial walls  
+- Portraits/photos of victims: displayed in rallies, held up by family members  
+- Black clothing, armbands, ribbons: visual markers of mourning  
+- Shrines/altars: improvised displays with photos, candles, teddy bears  
+- Moments of silence: crowds standing still, heads bowed  
+
 
 ---
 
