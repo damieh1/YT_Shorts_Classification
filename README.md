@@ -3,7 +3,9 @@
 # Scene Classification Taxonomy (MPED – Shorts)
 
 The proposed taxonomy defines **scene types** for classifying segmented video shots (10–15s) from YouTube Shorts and similar short-form content.  
-It balances **clear visual distinctions** and **feasible detection** for affect mobilization in Computer Vision tasks.  
+The goal is to achieve a **clear visual distinction** and **feasible detection** for affect mobilization in computer vision tasks.
+
+*Work in progress...*
 
 ---
 
