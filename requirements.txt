@@ -1,0 +1,5 @@
+# Python packages for the whisper venv
+# NOTE: install torch separately with the correct CUDA wheel
+# Example: pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+openai-whisper>=20231117
