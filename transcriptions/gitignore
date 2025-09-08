@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+whisper-venv/
+
+# Data
+data/videos/
+data/captions/
+*.mp4
+*.webm
+*.avi
+*.mkv
+*.mov
+*.m4v
+*.srt
+*.vtt
+*.txt
+*.json
+*.tsv
