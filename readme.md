@@ -23,3 +23,39 @@ Repo documents our **batch transcription** of YT Short using **Whisper large-v3*
 python3 -m venv ~/whisper-venv
 source ~/whisper-venv/bin/activate
 pip install --upgrade pip
+```
+
+---
+
+## 3. Get correct CUDA 
+- Install CUDA 12.1
+```
+pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+pip install -r requirements.txt
+
+sudo apt update && sudo apt install -y ffmpeg
+```
+
+## 4. Run Whisper on Corpus
+- Excutable script
+```
+chmod +x transcribe_dir.sh
+```
+- Run Whisper
+```
+./transcribe_dir.sh "/path/to/videos" "/path/to/output_captions" 4
+```
+- Arg1: input directory
+- Arg2: output directory-
+- Arg3: number of parallel jobs (use 2–4 for Whisper large-v3 on A100)
+
+Create five outputs: `.txt, .srt, .vtt, .tsv, .json`
+
+---
+
+## 5. Monitor GPU
+```
+watch -n 1 nvidia-smi
+ls /path/to/output_captions | grep '\.srt$' | wc -l
+```
