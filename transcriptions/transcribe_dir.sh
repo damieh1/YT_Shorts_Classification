@@ -8,7 +8,7 @@
 
 ### **transcribe_dir.sh**
 ```bash
-#!/usr/bin/env bash
+
 set -euo pipefail
 
 # Whisper batch transcription (Linux, venv)
