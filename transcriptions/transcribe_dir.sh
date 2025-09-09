@@ -47,13 +47,13 @@ transcribe_one() {
   local stem="${base%.*}"
 
   if [[ -f "$OUTPUT_DIR/${stem}.txt" || -f "$OUTPUT_DIR/${stem}.srt" ]]; then
-    echo "✔ Skip (exists): $base"
+    echo "Skip (exists): $base"
     return 0
   fi
 
   echo "→ Transcribing: $base"
   whisper "$f" "${WHISPER_ARGS[@]}" --output_dir "$OUTPUT_DIR" || {
-    echo "✖ ERROR: whisper failed for $base" >&2
+    echo "ERROR: whisper failed for $base" >&2
     return 1
   }
 }
