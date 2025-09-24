@@ -1,0 +1,26 @@
+<View>
+  <Style>
+    .lsf-main { max-width: 980px; margin: 0 auto; }
+    .header { font-weight: 600; padding: 8px 0; }
+  </Style>
+
+  <Header className="header">Event-span annotation for paralinguistic audio cues</Header>
+  <Audio name="audio" value="$audio" zoom="true" hotkey="a" />
+
+  <!-- Multi-label span tagging -->
+  <Labels name="events" toName="audio" choice="multiple" allowEmpty="true" showInline="true">
+    <Label value="Speech" background="#4CAF50" hotkey="1" />
+    <Label value="Shout" background="#8BC34A" hotkey="2" />
+    <Label value="Screaming" background="#CDDC39" hotkey="3" />
+    <Label value="Laughter" background="#FFC107" hotkey="4" />
+    <Label value="Crying_and_sobbing" background="#FF9800" hotkey="5" />
+    <Label value="Siren" background="#F44336" hotkey="6" />
+    <Label value="Alarm" background="#E91E63" hotkey="7" />
+    <Label value="Explosion" background="#9C27B0" hotkey="8" />
+    <Label value="Engine" background="#03A9F4" hotkey="9" />
+    <Label value="Helicopter" background="#00BCD4" hotkey="0" />
+  </Labels>
+
+  <!-- Optional per-region notes -->
+  <TextArea name="notes" toName="audio" perRegion="true" placeholder="Optional: notes or context" />
+</View>
