@@ -1,26 +1,35 @@
 <View>
   <Style>
     .lsf-main { max-width: 980px; margin: 0 auto; }
-    .header { font-weight: 600; padding: 8px 0; }
+    .legend { font-size: 14px; line-height: 1.4; padding: 6px 10px; background: #f6f7f9; border-radius: 8px; margin-bottom: 8px; }
+    .legend strong { display: inline-block; min-width: 110px; }
   </Style>
 
-  <Header className="header">Event-span annotation for paralinguistic audio cues</Header>
+  <Header value="Tier-1 Paralinguistic Event Spans" />
+  <View className="legend">
+    <Header value="Guidelines (short)" />
+    <Text value="• Overlaps allowed (e.g., Speech + Music BG).  • Label CHANT only for rhythmic/unison slogans (not normal speech).  • Set Music role = FG (no VO) or BG (under speech) ONLY when Music is present.  • Use Shout/Scream for brief high-intensity vocal bursts."/>
+  </View>
+
   <Audio name="audio" value="$audio" zoom="true" hotkey="a" />
 
-  <!-- Multi-label span tagging -->
-  <Labels name="events" toName="audio" choice="multiple" allowEmpty="true" showInline="true">
+  <!-- Core labels -->
+  <Labels name="events" toName="audio" choice="multiple" showInline="true">
     <Label value="Speech" background="#4CAF50" hotkey="1" />
-    <Label value="Shout" background="#8BC34A" hotkey="2" />
-    <Label value="Screaming" background="#CDDC39" hotkey="3" />
-    <Label value="Laughter" background="#FFC107" hotkey="4" />
-    <Label value="Crying_and_sobbing" background="#FF9800" hotkey="5" />
-    <Label value="Siren" background="#F44336" hotkey="6" />
-    <Label value="Alarm" background="#E91E63" hotkey="7" />
-    <Label value="Explosion" background="#9C27B0" hotkey="8" />
-    <Label value="Engine" background="#03A9F4" hotkey="9" />
-    <Label value="Helicopter" background="#00BCD4" hotkey="0" />
+    <Label value="Shout"  background="#E53935" hotkey="2" />
+    <Label value="Screaming" background="#D81B60" hotkey="3" />
+    <Label value="Siren" background="#3F51B5" hotkey="4" />
+    <Label value="Chant" background="#8E24AA" hotkey="5" />
+    <Label value="Music" background="#FB8C00" hotkey="6" />
+    <Label value="Crowd_noise" background="#0097A7" hotkey="7" />
   </Labels>
 
+  <!-- Per-region attribute for Music only (set this only when Music is selected) -->
+  <Choices name="music_role" toName="audio" perRegion="true" showInline="true">
+    <Choice value="Music_FG" hint="foreground (no voice-over)" />
+    <Choice value="Music_BG" hint="background (under speech)" />
+  </Choices>
+
   <!-- Optional per-region notes -->
-  <TextArea name="notes" toName="audio" perRegion="true" placeholder="Optional: notes or context" />
+  <TextArea name="notes" toName="audio" perRegion="true" placeholder="Optional notes/context or source cue" />
 </View>
