@@ -2,6 +2,8 @@
 
 Repo documents our **batch transcription** of YT Short using **Whisper large-v3** on a Jetstream2 GPU A100 instance.
 
+[See how the batch_script runs](https://github.com/damieh1/YT_Shorts_Classification/blob/main/transcriptions/batch_script_whisper.mp4)
+
 ## Features
 - Recursively finds common video formats (`.mp4, .webm, .mkv, .mov, .m4v, .avi`)
 - Parallel processing (configurable), idempotent (safe to re-run)
