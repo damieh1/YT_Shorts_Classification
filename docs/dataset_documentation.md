@@ -11,7 +11,7 @@ To support reproducibility, we release:
 ## Collection
 - Source: Public YouTube Shorts
 - Method: YouTube Data API v3
-- Channels: [anonymous for review]
+- Channels: Al Jazeera (English), TRT World (English), BBC News (English), Deutsche Welle (English)
 - Date Range: 10/07/2023–10/07/2024
 - Data acquisition took place after each short had existed for two weeks
 - Extracted Metadata:
