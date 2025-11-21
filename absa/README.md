@@ -43,7 +43,7 @@ Source: `finetune_bert.py`
 
 ---
 
-### 3. `finetune_deberta.py` (DeBERTa-v3-base / -large, Yang variant)
+### 3. `finetune_deberta.py` (DeBERTa-v3-base / large / DeBERT-v3-large-absa-v1.1)
 Handles:
 - DeBERTa-v3 baseline and tuned large variants
 - slow tokenizer support
@@ -52,6 +52,7 @@ Handles:
 
 Source: `finetune_deberta.py`  
 
+### finetune `deberta-v3-base`
 ```bash
 cd ~/absa-ft/absa-ft-venv/bin/python \
 source absa-ft-venv/bin/activate
@@ -64,6 +65,22 @@ source absa-ft-venv/bin/activate
   --per_device_train_batch_size 16 \
   --max_length 256
 ```
+
+### finetune `deberta-v3-lage`
+```bash
+cd ~/absa-ft/absa-ft-venv/bin/python \
+source absa-ft-venv/bin/activate
+  scripts/finetune_deberta.py \
+  --model_name_or_path microsoft/deberta-v3-lage \
+  --raw_file data/Ground_truth_APC.raw \
+  --output_dir runs/deberta_v3_large \
+  --num_train_epochs 4 \
+  --learning_rate 1e-5 \
+  --per_device_train_batch_size 8 \
+  --max_length 256
+```
+
+### finetune `deberta-v3-large-absa-v1.1`
 ```bash
 cd ~/absa-ft/absa-ft-venv/bin/python \
 source absa-ft-venv/bin/activate
@@ -86,8 +103,6 @@ Handles:
 - PEFT LoraConfig integration
 
 Source: `finetune_qwen_qlora.py`  
-
-
 ```bash
 cd ~/absa/qlora
 source absa-qwen-venv/bin/activate
