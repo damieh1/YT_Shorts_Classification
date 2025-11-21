@@ -112,3 +112,43 @@ Objects and rituals connected to grief, tribute, or remembrance.
      - **Scenes:** `Conflict & Security`, `Protest & Mobilization`, `Institutional & Media Settings`  
      - **Attributes:** `Flags & emblems`, `Posters / inscriptions` (only if feasible).
 
+
+
+```bash
+You are a careful visual annotator. Look only at the image.
+Identify what kind of scene is shown, using the categories listed below.
+Be conservative: if unclear, set "abstain": true or label "other_or_unknown".
+Output JSON ONLY.
+
+Schema: {
+  "frame_id": "string",
+  "abstain": "boolean",
+  "scene_type": [
+    "combat_or_violence",
+    "aftermath_or_destruction",
+    "military_presence",
+    "mourning_or_funeral",
+    "refugee_or_displacement",
+    "children_or_humanitarian_aid",
+    "protest_or_demonstration",
+    "diplomacy_or_politics",
+    "media_or_interview",
+    "religious_or_sacred_scene",
+    "national_or_identity_symbol",
+    "memorial_or_commemoration",
+    "civilian_life_under_crisis",
+    "diaspora_or_global_reaction",
+    "other_or_unknown"
+  ],
+  "violence_level": "none | implied | explicit | unknown", # We skipped reorting on this results duo to poor predicitons
+  "text_overlay": "present | absent | unknown",
+  "evidence": ["<=2 short phrases describing visible cues"]
+}
+
+If JSON output fails, reprompt with:
+“Your previous output was invalid. Follow the schema exactly. Output JSON only.”
+```
+## Output 
+`video_title`,`video_id`,`frame_id`,`scene_type`,`violence_level`,`text_overlay`,`evidence`
+`"Ruins after overnight strike"`,`"AJ12345"`,`"frame_00012"`,`"aftermath_or_destruction"`,`"implied","present"`,`"Shows destroyed buildings, people present"`
+
