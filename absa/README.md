@@ -52,6 +52,30 @@ Handles:
 
 Source: `finetune_deberta.py`  
 
+```bash
+cd ~/absa-ft/absa-ft-venv/bin/python \
+source absa-ft-venv/bin/activate
+  scripts/finetune_deberta.py \
+  --model_name_or_path microsoft/deberta-v3-base \
+  --raw_file data/Ground_truth_APC.raw \
+  --output_dir runs/deberta_v3_base \
+  --num_train_epochs 6 \
+  --learning_rate 3e-5 \
+  --per_device_train_batch_size 16 \
+  --max_length 256
+```
+```bash
+cd ~/absa-ft/absa-ft-venv/bin/python \
+source absa-ft-venv/bin/activate
+  scripts/finetune_deberta.py \
+  --model_name_or_path yangheng/deberta-v3-large-absa-v1.1 \
+  --raw_file data/Ground_truth_APC.raw \
+  --output_dir runs/yang_deberta_v3_large_absa_v1.1_lr5e-6_ep5 \
+  --num_train_epochs 5 \
+  --learning_rate 5e-6 \
+  --per_device_train_batch_size 8 \
+  --max_length 256
+```
 ---
 
 ### 4. `finetune_qwen_qlora.py` (Qwen2.5-7B-Instruct + QLoRA)
@@ -63,13 +87,20 @@ Handles:
 
 Source: `finetune_qwen_qlora.py`  
 
----
 
-## Output Structure
-
-Each run produces:
- - runs/
- - <model_name>/
+```bash
+cd ~/absa/qlora
+source absa-qwen-venv/bin/activate
+python /absa/qlora/finetune_qwen_qlora.py \
+  --model_name_or_path Qwen/Qwen2.5-7B-Instruct \
+  --raw_file /data/Ground_truth_APC.raw \
+  --output_dir runs/qwen2_5_7b_qlora \
+  --num_train_epochs 3 \
+  --learning_rate 2e-5 \
+  --per_device_train_batch_size 4 \
+  --max_length 256 \
+  --load_in_4bit
+```
  - config.json
  - pytorch_model.bin
  - tokenizer/
