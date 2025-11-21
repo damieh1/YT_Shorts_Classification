@@ -8,7 +8,7 @@ This repository contains the full codebase for the ICWSM 2026 submission on even
 - Taxonomy.md # Scene-type taxonomy for Computer Vision classification
 
 `absa/`
-- README.md # ABSA explanation and model instructions
+- README.md # ABSA explanation and model instructions and further instructions `requirements.txt` for each model
 - `finetune_bert.py` # BERT fine-tuning
 - `finetune_deberta.py` # DeBERTa-v3 fine-tuning
 - `finetune_qwen_qlora.py` # Qwen2.5-7B (QLoRA) fine-tuning
@@ -37,6 +37,6 @@ This repository contains the full codebase for the ICWSM 2026 submission on even
 - `requirements.txt` # Required packs
 - `readme.md`
 
-.gitignore
-LICENSE
-requirements.txt
+- `.gitignore`
+- `LICENSE`
+- `requirements.txt`
