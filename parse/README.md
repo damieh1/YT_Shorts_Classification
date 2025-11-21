@@ -1,6 +1,14 @@
 # Parsing Module (Biaffine-SuPar)
 
-This directory contains scripts used to perform dependency parsing on Whisper transcripts using SuPar’s biaffine dependency parser.
+We use the SuPar biaffine dependency parser to all Whisper transcripts.  
+It converts each caption segment into dependency arcs, POS tags, and aspect-aligned spans used for ABSA and event extraction.
+
+**Provides:**  
+- Sentence segmentation + dependency parsing  
+- Token–head–relation structure (`dep_rel`, `head_form`)  
+- Aspect/entity alignment from the Excel dictionary  
+- Time-coded parsed sentences (`start`, `end`, `seg_ids`, `sentence_index`)  
+- Output CSV consumed by ABSA + event extraction
 
 ## Script
 
