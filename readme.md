@@ -8,7 +8,7 @@ This repository contains the full codebase for our ICWSM submission on event-lev
 - Taxonomy.md # Scene-type taxonomy for Computer Vision classification
 
 `absa/`
-- README.md # ABSA explanation and model instructions and further instructions `requirements.txt` for each model
+- `README.md` # ABSA explanation and model instructions and further instructions `requirements.txt` for each model
 - `finetune_bert.py` # BERT fine-tuning
 - `finetune_deberta.py` # DeBERTa-v3 fine-tuning
 - `finetune_qwen_qlora.py` # Qwen2.5-7B (QLoRA) fine-tuning
@@ -25,6 +25,7 @@ This repository contains the full codebase for our ICWSM submission on event-lev
 - `reproducibility_notes.md` # Full pipeline reproduction guide
 
 `parse/`
+- `readme.md`
 - `parse_whisper_captions_biaffine.py` # Biaffine dep-en, GPU usage
 - `entity_dict_18_04_2025.xlsx` # Aspect categories and aspects
 - `requirements.txt`
