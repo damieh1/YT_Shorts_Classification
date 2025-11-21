@@ -4,7 +4,7 @@
 - Platform: Jetstream2
 - GPU: NVIDIA A100-SXM4-40GB
 - Driver: 550.144.03
-- CUDA> V12.4
+- CUDA: v12.4
 
 ## Compute Resources
 All experiments were conducted on NSF ACCESS Jetstream2/Delta nodes equipped with NVIDIA A100-SXM4-40GB GPUs (driver version 550.144.03, CUDA 12.4). All Whisper transcription, dependency parsing, ABSA fine-tuning, ABSA inference, and event extraction were executed on this hardware class. The total compute required for transcription was approximately 10 GPU-hours. Dependency parsing required 6–8 GPU-hours. Across all ABSA model configurations (RoBERTa-base, DeBERTa-v3-base, DeBERTa-v3-large, DeBERTa-v3-large-absa-v1.1 , and Qwen2.5-7B QLoRA), fine-tuning required approximately 20–22 GPU-hours. ABSA inference and event extraction required < 1 GPU-hour and < 1 CPU-hour, respectively.
