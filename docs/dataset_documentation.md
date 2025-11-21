@@ -38,5 +38,26 @@ To support reproducibility, we release:
 - Only aggregated results reported
 - Synthetic dataset provided for illustration
 
-## Data Schema (Real Dataset)
+## Data Schema (Real Dataset/Event-Level)
+
+## Video Metadata
+- video_title: `string`  
+- seg_group_id: `string`  
+- seg_ids: `string`  
+- start_time: `float`  
+- end_time: `float`  
+- sentence_index: `int`  
+
+## Text Fields
+- sentence: `string`  
+
+## ABSA Fields
+- aspect_category: `string`  
+- aspect_term: `string`  
+
+## Dependency Parse Fields
+- dep_role: `string`  
+- head_verb: `string`  
+- event_agent: `string`  
+
 
