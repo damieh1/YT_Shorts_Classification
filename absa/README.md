@@ -6,7 +6,8 @@ format (raw `.raw` triplets: sentence, aspect, label) but implements a
 different model architecture.
 
 ## Input Format
-All scripts expect a `.raw` file with triplet entries in the format (see /data/`Ground_truth_APC.raw`):
+All scripts expect a `.raw` file with triplet entries in the format (see /data/`Ground_truth_APC.raw`)
+
 ---
 
 Labels may be variations of "positive", "neutral", "negative". They are
