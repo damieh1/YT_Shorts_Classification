@@ -16,11 +16,12 @@ To support reproducibility, we release:
 - Data acquisition took place after each short had existed for two weeks
 - Extracted Metadata:
   - video_id
+  - description
   - title
   - publish_date
   - views
   - likes
-  - channel metadata
+  
 
 ## Preprocessing Steps
 1. Whisper transcription for all videos    
