@@ -1,5 +1,5 @@
 import os, sys, json
-sys.path.insert(0, "/home/treeves/projects/absa-ft/absa-ft-venv/lib/python3.10/site-packages")
+sys.path.insert(0, "/absa-ft-venv/lib/python3.10/site-packages")
 
 import numpy as np
 import pandas as pd
