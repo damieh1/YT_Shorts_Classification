@@ -6,6 +6,7 @@ Our taxonomy defines visual categories for classifying still frames extracted fr
 If unclear, use `"other_or_unknown"` and/or `"abstain": true`.
 
 ---
+ # Scene Types
 
 ## 1. combat_or_violence
 Scenes showing active fighting, explosions, gunfire, physical aggression, or visible casualties.
@@ -53,6 +54,9 @@ Protests, vigils, or mobilization **outside the conflict zone**, often in diaspo
 Scenes with ambiguous, unclear, or insufficient visual information.  
 Used when classification confidence is low or content falls outside defined categories.
 
+---
+
+# Prompt
 
 ```bash
 You are a careful visual annotator. Look only at the image.
@@ -88,7 +92,9 @@ Schema: {
 If JSON output fails, reprompt with:
 “Your previous output was invalid. Follow the schema exactly. Output JSON only.”
 ```
-## Output 
+--- 
+
+# Output 
 `video_title`,`video_id`,`frame_id`,`scene_type`,`violence_level`,`text_overlay`,`evidence`
 `"Ruins after overnight strike"`,`"AJ12345"`,`"frame_00012"`,`"aftermath_or_destruction"`,`"implied","present"`,`"Shows destroyed buildings, people present"`
 
