@@ -1,5 +1,5 @@
-## Synthetic Data
-A complete synthetic dataset is included to illustrate the full pipeline without violating YouTube API terms.
+## Sample Data
+A small synthetic dataset is included to illustrate the full pipeline without violating YouTube API terms.
 
 ## Reproducibility
 See `docs/reproducibility_notes.md` for:
@@ -9,4 +9,4 @@ See `docs/reproducibility_notes.md` for:
 - pipeline overview
 
 ## License
-[to fill, or omit if anonymous]
+[anonymous]
