@@ -1,1 +1,3 @@
+video_id,seg_group_id,seg_ids,start,end,sent_ix,sentence,predicate,voice,subj_surface,subj_aspect,subj_dep_rel,subj_sentiment,subj_score,obj_surface,obj_aspect,obj_dep_rel,obj_sentiment,obj_score
+QTB_SYNTH_01,0+1,0|1,0,13.42,0,"Gantz was a moderate voice in the cabinet, the inner war cabinet that Netanyahu was leading.","leading","active","Netanyahu","Israel","nsubj","","","that","","dobj","",""
 
