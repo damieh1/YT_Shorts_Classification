@@ -1,12 +1,5 @@
-## YT Shorts Project Analyisis
+# YT Shorts Project: Multimodal Event and Sentiment Analysis
 
-All transcription scripts are stored in `transcriptions/`.
+This repository contains the full codebase for the ICWSM 2026 submission on event-level analysis of YouTube Shorts from four international news outlets.
 
-- `transcriptions/transcribe_dir.sh`: batch transcription wrapper
-- `transcriptions/check_env.py`: verify environment and versions
-
----
-
-All computer vision scripts are stored in `CV/`
-
-- `CV/Taxonomy.md`: Proposed taxonomy
+## Structure
