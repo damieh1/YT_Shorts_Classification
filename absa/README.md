@@ -138,7 +138,7 @@ Source: `predict_absa.py`
 ```bash
 cd ~/absa-ft/absa-ft-venv/bin/python \
 python /absa-ft/scripts/predict_absa.py \
-  --model /home/treeves/projects/absa-ft/runs/deberta_v3_base \
-  --data /home/treeves/projects/absa-ft/data/ \
-  --out /home/treeves/projects/absa-ft/predictions
+  --model /absa-ft/runs/deberta_v3_base \
+  --data /absa-ft/data/ \
+  --out /absa-ft/predictions
 ```
