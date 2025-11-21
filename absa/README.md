@@ -121,3 +121,16 @@ python /absa/qlora/finetune_qwen_qlora.py \
  - tokenizer/
  - val_metrics.json
  - test_metrics.json
+
+---
+
+### 5. `predict_absa.py` (deberta-v3-base)
+
+Source: `predict_absa.py`  
+```bash
+cd ~/absa-ft/absa-ft-venv/bin/python \
+python /absa-ft/scripts/predict_absa.py \
+  --model /home/treeves/projects/absa-ft/runs/deberta_v3_base \
+  --data /home/treeves/projects/absa-ft/data/ \
+  --out /home/treeves/projects/absa-ft/predictions
+```
