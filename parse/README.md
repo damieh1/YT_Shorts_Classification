@@ -7,13 +7,6 @@ This directory contains scripts used to perform dependency parsing on Whisper tr
 - `parse_whisper_captions_biaffine.py`  
   Takes Whisper JSON transcripts and outputs dependency-parsed CSV files.
 
-## Requirements
-Parsing was executed inside a dedicated environment (`biaffine-env`) containing:
-- supar
-- torch (GPU-enabled)
-- transformers
-- pandas, numpy
-
 ## Example Command
 
 ```bash
