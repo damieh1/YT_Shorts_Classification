@@ -34,7 +34,7 @@ ABSA models trained on review-like data struggle with:
 - indirect agency framing
 
 ## Channel-Level Narrative Disparities
-Different outlets emphasize different viewpoints, causing:
+Different outlets emphasize different political and ideological viewpoints, causing:
 - asymmetric distributions of aspects
 - topic clustering
 - diverging linguistic patterns
