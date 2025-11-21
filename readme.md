@@ -24,6 +24,11 @@ This repository contains the full codebase for our ICWSM submission on event-lev
 - `known_artifacts_biases.md` # Known artifacts in transcripts + parsing
 - `reproducibility_notes.md` # Full pipeline reproduction guide
 
+`parse/`
+- `parse_whisper_captions_biaffine.py` # Biaffine dep-en, GPU usage
+- `entity_dict_18_04_2025.xlsx` # Aspect categories and aspects
+- `requirements.txt`
+
 `synthetic_data/`
 - `example_absa_plus_parses.csv`
 - `example_events.csv`
