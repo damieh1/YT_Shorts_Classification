@@ -1,1 +1,3 @@
+video_id,seg_group_id,seg_ids,start,end,sent_ix,sentence,aspect,aspect_surface,dep_rel,head_form,dep_form,predicted_sentiment,neg_score,neutral_score,positive_score
+AJ_SYNTH_01,0,0,0.64,7.72,0,"We are alarmed by yesterday's reports that the IDF fired repeatedly on a WFP vehicle.","Israel","IDF","nsubj","fired","IDF","negative",0.99895453,0.000644731,0.000400734
 
