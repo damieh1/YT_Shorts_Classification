@@ -98,7 +98,15 @@ source absa-ft-venv/bin/activate
 ### 4. `finetune_qwen_qlora.py` (Qwen2.5-7B-Instruct + QLoRA)
 Handles:
 - QLoRA 4-bit quantization
-- instruction-style prompts (“You are a domain expert…”)
+- instruction-style prompts
+```bash
+"You are a domain expert in political communication performing aspect-based sentiment analysis.\n"
+        f"Sentence: {text}\n"
+        f"Aspect: {aspect}\n"
+        "Task: What is the sentiment towards this aspect? "
+        "Answer with exactly one word: negative, neutral, or positive.\n"
+        "Answer:"
+```
 - generation-based evaluation
 - PEFT LoraConfig integration
 
