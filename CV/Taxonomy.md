@@ -1,117 +1,57 @@
 # YT_Shorts_Classification
 
-# Scene Classification Taxonomy (MPED – Shorts)
+# Scene-Type Taxonomy
 
-The proposed taxonomy defines **scene types** for classifying segmented video shots (10–15s) from YouTube Shorts and similar short-form content.  
-The goal is to achieve a **clear visual distinction** and **feasible detection** for affect mobilization in computer vision tasks.
-
-*Work in progress...*
+Our taxonomy defines visual categories for classifying still frames extracted from news-related short-form videos. Categories represent narrative cues, situational contexts, or visual markers commonly used in conflict, crisis, and political communication coverage. Annotators should choose the **most visually dominant** category.  
+If unclear, use `"other_or_unknown"` and/or `"abstain": true`.
 
 ---
 
-## 1. Conflict & Security
-Scenes showing **violence, destruction, or organized force**.
+## 1. combat_or_violence
+Scenes showing active fighting, explosions, gunfire, physical aggression, or visible casualties.
 
-- **Active combat:** explosions, firefights, airstrikes, rubble falling, gunfire  
-- **Military activity:** soldiers with weapons, armored vehicles, tanks, checkpoints  
-- **Aftermath of attacks:** destroyed buildings, burned cars, debris, smoke plumes  
-- **Policing / security enforcement:** riot police lines, arrests, tear gas, batons  
-- **Detentions / searches:** handcuffs, police restraining or pushing civilians  
+## 2. aftermath_or_destruction
+Visuals depicting damage or destruction after an attack or disaster: collapsed buildings, rubble, smoke, burned vehicles.
 
----
+## 3. military_presence
+Soldiers, armored vehicles, checkpoints, bases, uniforms, or military hardware **without active combat**.
 
-## 2. Protest & Mobilization
-Scenes of **collective civic or political action**.
+## 4. mourning_or_funeral
+Scenes depicting grief, funerals, memorial gatherings, vigils, coffins, or symbolic acts of mourning.
 
-- **Street protests / rallies:** marches, chanting crowds, placards, megaphones  
-- **Protest encampments / sit-ins:** tents on campus lawns, occupations, blockades  
-- **Solidarity actions:** candlelight vigils, symbolic flag displays, human chains  
-- **Demonstrations with banners:** protest slogans, “Free Palestine,” “Ceasefire Now”  
-- **Counter-demonstrations:** opposing groups, police separating crowds  
+## 5. refugee_or_displacement
+Forced civilian movement, displaced families, temporary shelters, border crossings, evacuation scenes.
 
----
+## 6. children_or_humanitarian_aid
+Children in conflict settings, humanitarian assistance, food distribution, medical care, UN/NGO activity.
 
-## 3. Humanitarian & Civilian Life
-Scenes showing **non-military human conditions**.
+## 7. protest_or_demonstration
+Crowds holding signs, chanting, marching, occupying public spaces, or engaging in civil protest.
 
-- **Refugee / aid camps:** rows of tents, UN/NGO logos, food/aid distribution lines  
-- **Medical settings:** ambulances, doctors treating injured, hospital interiors  
-- **Civilian daily life:** markets, homes, children playing, family gatherings  
-- **Displacement:** families carrying belongings, queues at aid points, shelters  
-- **Humanitarian relief:** Red Cross/Red Crescent, volunteers, donation handouts  
+## 8. diplomacy_or_politics
+Political leaders, press conferences, official meetings, negotiation tables, government ceremonies.
 
----
+## 9. media_or_interview
+Journalists reporting on scene, interviews, news crews, studio stand-ups, or reporters speaking to camera.
 
-## 4. Institutional & Media Settings
-Scenes of **formal communication or controlled environments**.
+## 10. religious_or_sacred_scene
+Religious rituals, prayer, mosques, churches, synagogues, sacred objects, or ceremonial worship.
 
-- **Political speeches / press conferences:** podiums, leaders, national flags  
-- **Studio interviews / talk shows:** panel discussions, guests at a table, microphones  
-- **Educational contexts:** classrooms, academic lectures, university debates  
-- **Official ceremonies:** government signings, assemblies, formal events  
-- **Media coverage:** reporters on location, live news desks, anchors in studios  
+## 11. national_or_identity_symbol
+Flags, national emblems, movement symbols, uniforms, insignia, or public displays of identity.
 
----
+## 12. memorial_or_commemoration
+Monuments, remembrance events, plaques, candlelight vigils, or commemorative public gatherings.
 
-## 5. Cross-Cutting Attributes
-These are **not standalone scene types**, but important **features that can occur in any category**.  
-They should be treated as **secondary tags** in annotation or model output.
+## 13. civilian_life_under_crisis
+Everyday civilian activities occurring in conflict or crisis contexts: queues for supplies, families in damaged homes, daily life under duress.
 
-### Flags & Emblems
-Visual symbols of identity, belonging, or political alignment.  
-   - National flags: Israeli, Palestinian, American, Turkish, etc.  
-   - Political movement flags: Hamas, Hezbollah, Fatah, Islamic Jihad, student groups  
-   - Organizational emblems: UN, Red Cross/Red Crescent, Amnesty International  
-   - Flag displays: waved in crowds, draped over bodies, hanging from balconies, painted on walls  
-   - Symbolic clothing: keffiyehs, IDF uniforms, armbands with insignia  
+## 14. diaspora_or_global_reaction
+Protests, vigils, or mobilization **outside the conflict zone**, often in diaspora communities or international cities.
 
-### Posters / Flyers / Inscriptions
-Printed or written text meant to convey a message.  
-   - Protest placards: “Free Palestine,” “Ceasefire Now,” “Stop the Occupation”  
-   - Flyers/leaflets: calls for demonstrations, boycott/divestment campaigns (BDS)  
-   - Wall inscriptions / graffiti: slogans, political messages, murals  
-   - Banners: stretched across streets, hung from buildings, behind podiums  
-   - Digital posters / screenshots: social media announcements or infographics shown in videos  
-
-### Memorial / Mourning Symbols
-Objects and rituals connected to grief, tribute, or remembrance.  
-   - Candlelight vigils: groups holding candles, night-time gatherings  
-   - Flowers and wreaths: laid at sites of attacks or memorial walls  
-   - Portraits/photos of victims: displayed in rallies, held up by family members  
-   - Black clothing, armbands, ribbons: visual markers of mourning  
-   - Shrines/altars: improvised displays with photos, candles, teddy bears  
-   - Moments of silence: crowds standing still, heads bowed  
-
-
----
-
-### Notes
-- **Every segment** should be classified into **exactly one of the four core categories** (1–4).  
-- **Attributes (5)** can be assigned in addition to the main category, providing extra semantic detail (only if feasible).
-
-
-## Annotation Protocol
-
-1. **Segmentation:**  
-   - Videos are split into 10–15 second **segments**.  
-   - Each segment must receive **exactly one primary scene label** (1–4).  
-   - Cross-cutting attributes (5) may be assigned in addition, if present.  
-
-2. **Segment-Level Example:**  
-   - *Scene:* Street protest with Palestinian flags -->> `Protest & Mobilization`  
-   - *Attributes:* Flags -->> `Flags & emblems`  
-
-3. **Video-Level Aggregation:**  
-   - A video may contain **multiple scene types**, depending on its segments.  
-   - The video’s overall label is the **union of all scene labels** across segments.  
-   - Attributes are also aggregated at the video level.  
-
-   **Example:**  
-   - Segments: `[Conflict & Security]`, `[Protest & Mobilization + Flags]`, `[Institutional & Media Settings + Posters]`  
-   - Video-level summary:  
-     - **Scenes:** `Conflict & Security`, `Protest & Mobilization`, `Institutional & Media Settings`  
-     - **Attributes:** `Flags & emblems`, `Posters / inscriptions` (only if feasible).
-
+## 15. other_or_unknown
+Scenes with ambiguous, unclear, or insufficient visual information.  
+Used when classification confidence is low or content falls outside defined categories.
 
 
 ```bash
