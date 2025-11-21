@@ -10,6 +10,7 @@ This directory contains scripts used to perform dependency parsing on Whisper tr
 ## Example Command
 
 ```bash
+source bin/activate
 source biaffine-env/bin/activate
 
 python parse_whisper_captions_biaffine.py \
