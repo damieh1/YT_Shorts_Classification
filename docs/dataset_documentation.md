@@ -12,7 +12,7 @@ To support reproducibility, we release:
 - Source: Public YouTube Shorts
 - Method: YouTube Data API v3
 - Channels: [anonymous for review]
-- Date Range: 10/07/2023--10/072024
+- Date Range: 10/07/2023–10/07/2024
 - Data acquisition took place after each short had existed for two weeks
 - Extracted Metadata:
   - video_id
