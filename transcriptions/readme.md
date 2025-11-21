@@ -1,5 +1,12 @@
 # Whisper Batch Transcription (running on Jetstream2 / Linux Debian)
 
+All transcription scripts are stored in transcriptions/. 
+- transcriptions/transcribe_dir.sh: batch transcription wrapper
+- transcriptions/check_env.py: verify environment and versions
+
+--- 
+
+
 Repo documents our **batch transcription** of YT Short using **Whisper large-v3** on a Jetstream2 GPU A100 instance.
 
 [See how the batch_script runs](https://github.com/damieh1/YT_Shorts_Classification/blob/main/transcriptions/batch_script_whisper.mp4)
