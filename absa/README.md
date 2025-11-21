@@ -6,7 +6,7 @@ format (raw `.raw` triplets: sentence, aspect, label) but implements a
 different model architecture.
 
 ## Input Format
-All scripts expect a `.raw` file with entries in the format:
+All scripts expect a `.raw` file with triplet entries in the format (see /data/`Ground_truth_APC.raw`:
 - sentence_1
 - aspect_term_1
 - label_1
