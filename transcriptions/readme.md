@@ -1,8 +1,9 @@
 # Whisper Batch Transcription (running on Jetstream2 / Linux Debian)
 
-All transcription scripts are stored in transcriptions/. 
-- transcriptions/transcribe_dir.sh: batch transcription wrapper
-- transcriptions/check_env.py: verify environment and versions
+All transcription scripts are stored in [transcriptions/](/transcriptions). 
+- [transcriptions/transcribe_dir.sh](/transcriptions/transcribe_dir.sh): batch transcription wrapper
+- [transcriptions/check_env.py](/transcriptions/check_env.py): verify environment and versions
+- [See synthetic transcript structure](/synthetic_data/example_transcript.json): json output
 
 --- 
 
