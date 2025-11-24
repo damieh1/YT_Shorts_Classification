@@ -2,6 +2,7 @@
 
 We use the SuPar biaffine dependency parser to all Whisper transcripts.  
 It converts each caption segment into dependency arcs, POS tags, and aspect-aligned spans used for ABSA and event extraction.
+To ensure smooth, error-free execution, check the [`requirements`](requirements.txt). 
 
 **Provides:**  
 - Sentence segmentation + dependency parsing  
