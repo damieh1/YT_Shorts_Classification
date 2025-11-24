@@ -3,19 +3,14 @@
 This directory contains all Aspect-Based Sentiment Analysis (ABSA) fine-tuning
 scripts used in our submission. Each script takes the same input
 format (raw `.raw` triplets: sentence, aspect, label) but implements a
-different model architecture.
+different model architecture. To ensure smooth, error-free execution, check the [`requirements`](requirements/). 
+
 
 ## Input Format
 All scripts expect a `.raw` file with triplet entries in the format (see /data/`Ground_truth_APC.raw`)
 
 Labels may be variations of "positive", "neutral", "negative". They are
 normalized internally.
-
----
-
-## Rquirements
-- [`requirements/`](requirements/)  
-  library versionss
 
 ---
 
