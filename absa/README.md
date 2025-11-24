@@ -8,10 +8,16 @@ different model architecture.
 ## Input Format
 All scripts expect a `.raw` file with triplet entries in the format (see /data/`Ground_truth_APC.raw`)
 
----
-
 Labels may be variations of "positive", "neutral", "negative". They are
 normalized internally.
+
+---
+
+## Rquirements
+- [`requirements/`](requirements/)  
+  library versionss
+
+---
 
 ## Scripts
 
