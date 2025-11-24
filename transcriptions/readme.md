@@ -2,7 +2,7 @@
 
 All transcription scripts are stored in [transcriptions/](/transcriptions). 
 - [transcriptions/transcribe_dir.sh](/transcriptions/transcribe_dir.sh): batch transcription wrapper
-- [transcriptions/check_env.py](/transcriptions/check_env.py): verify environment and versions
+- [transcriptions/check_env.py](/transcriptions/env_check.py): verify environment and versions
 - [See synthetic transcript structure](/synthetic_data/example_transcript.json): json output
 
 --- 
