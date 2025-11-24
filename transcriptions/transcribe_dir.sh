@@ -1,7 +1,7 @@
 # transcribe_dir.sh - batch transcription wrapper for Whisper
 
 # Code below is adapted from community examples of Whisper CLI usage.
-# Copyright (c) 2025 Daniel Miehling
+# Copyright (c) 2025 XXXX.XXXX
 # Licensed under the MIT License (see LICENSE file for details).
 
 ---
