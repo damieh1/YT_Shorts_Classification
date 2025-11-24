@@ -8,7 +8,7 @@ This repository contains the full codebase for our ICWSM submission on event-lev
 - [`transcriptions/`](transcriptions/)  
   Whisper transcription wrapper + environment checks
 
-- [`parsing/`](parsing/)  
+- [`parsing/`](parse/)  
   Biaffine dependency parsing (SuPar)
 
 - [`absa/`](absa/)  
