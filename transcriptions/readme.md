@@ -8,7 +8,7 @@ All transcription scripts are stored in transcriptions/.
 
 
 Repo documents our **batch transcription** of YT Short using **Whisper large-v3** on a Jetstream2 GPU A100 instance.
-To ensure smooth, error-free execution, check the [`requirements`](requirements/). 
+To ensure smooth, error-free execution, check the [`requirements`](requirements.txt). 
 
 [See how the batch_script runs](https://github.com/damieh1/YT_Shorts_Classification/blob/main/transcriptions/batch_script_whisper.mp4)
 
