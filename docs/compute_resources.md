@@ -17,6 +17,7 @@ All experiments were conducted on NSF ACCESS Jetstream2/Delta nodes equipped wit
 | ABSA Fine-Tuning | A100 | ~20–22 | Includes 5 models configurations for baseline = fine-tuning |
 | ABSA Inference | A100 | ~< 1 | Predicting ~3.2k rows |
 | Event Extraction | A100 | ~1 | SUPAR biaffine parsing + dependency rules |
-| Computer Vision | GPU | ~25 | QWEN3 Prompt-based scene-type classification |
+| Frame Sampling | A100 |  ~5 | Fixed rate of one FPS across input formats |
+| Computer Vision | GPU | ~490 | QWEN3 4B Prompt-based scene-type classification |
 
 
