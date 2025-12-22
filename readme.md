@@ -17,7 +17,7 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
 - [`CV/`](CV/)  
   Scene-type taxonomy + computer-vision implementation
 
-- [`data/`](datasets/)  
+- [`data/`](data/)  
   Snippet for GroundTruth (APC) for ABSA + publicly available dataset on YouTube Shorts
 
 - [`docs/`](docs/)  
