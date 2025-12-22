@@ -5,7 +5,7 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
 
 ## Repository Structure
 
-- [`transcriptions/`](anonymous.4open.science/r/YTSC-0E2D/transcriptions/)  
+- [`transcriptions/`](https://anonymous.4open.science/r/YTSC-0E2D/transcriptions/)  
   Whisper transcription wrapper + environment checks
 
 - [`parsing/`](parse/)  
