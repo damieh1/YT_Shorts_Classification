@@ -8,7 +8,7 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
 - [`transcriptions/`](https://anonymous.4open.science/r/YTSC-0E2D/transcriptions/readme.md)  
   Whisper transcription wrapper + environment checks
 
-- [`parsing/`]((https://anonymous.4open.science/r/YTSC-0E2D/parse/)  
+- [`parsing/`](https://anonymous.4open.science/r/YTSC-0E2D/parse/)  
   Biaffine dependency parsing (SuPar)
 
 - [`absa/`](https://anonymous.4open.science/r/YTSC-0E2D/absa/)  
