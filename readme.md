@@ -21,7 +21,7 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
   Publicly available dataset on YouTube Shorts & Snippets for GroundTruth (APC) + VLM-Model output
 
 - `docs/`
-  compute resources, dataset documententation, known artifacts & biases
+  Compute resources, dataset documententation, known artifacts & biases
 
 - `synthetic_data/`
-  metadata, parses, ABSA predictions, and vision examples
+  Metadata, parses, ABSA predictions, and vision examples
