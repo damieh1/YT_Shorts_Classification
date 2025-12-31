@@ -24,4 +24,4 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
   Compute resources, dataset documententation, known artifacts & biases
 
 - `synthetic_data/`
-  Metadata, parses, ABSA predictions, and vision examples
+  Metadata, parses, ABSA predictions
