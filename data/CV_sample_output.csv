@@ -1,0 +1,856 @@
+title,video_id,frame_index,frame_file,abstain,scene_type,text_overlay,evidence,raw_response,upload_date_parsed,month,upload_date,Manual_evaluation
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,1,AJ0016_0001.jpg,FALSE,symbolic_or_religious_ritual,present,"15,000 Palestinian flags planted as memorial; Sign reading 'Palestine'","{
+  ""frame_id"": ""image_001"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""15,000 Palestinian flags planted as memorial"", ""Sign reading 'Palestine'""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Activists unfurl giant Palestinian flag at top of Northern Ireland hill | AJ #shorts.webm,AJ0025,1,AJ0025_0001.jpg,FALSE,symbolic_or_religious_ritual,present,giant Palestinian flag unfurled on hill; activists' action at top of Northern Ireland hill,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""giant Palestinian flag unfurled on hill"",
+    ""activists' action at top of Northern Ireland hill""
+  ]
+}",9/17/2024 8:28,9/1/2024,2024-09-17T08:28:59Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,1,AJ0060_0001.jpg,FALSE,other_or_unknown,present,BAFTA award ceremony; formal attire at podium,"{
+  ""frame_id"": ""1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA award ceremony"", ""formal attire at podium""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,1,AJ0062_0001.jpg,FALSE,other_or_unknown,present,Group of people gathered around a person with a baby covered in blanket; Text overlay stating 'Baby girl rescued from dead mother's womb dies',"{
+  ""frame_id"": ""image_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Group of people gathered around a person with a baby covered in blanket"",
+    ""Text overlay stating 'Baby girl rescued from dead mother's womb dies'""
+  ]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,2,AJ0016_0002.jpg,FALSE,symbolic_or_religious_ritual,present,"15,000 Palestinian flags planted in memorial; Sign with 'PALESTIN'","{
+  ""frame_id"": ""frame_01"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""15,000 Palestinian flags planted in memorial"",
+    ""Sign with 'PALESTIN'""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Activists unfurl giant Palestinian flag at top of Northern Ireland hill | AJ #shorts.webm,AJ0025,2,AJ0025_0002.jpg,FALSE,symbolic_or_religious_ritual,present,giant Palestinian flag; activists unfurling,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""giant Palestinian flag"",
+    ""activists unfurling""
+  ]
+}",9/17/2024 8:28,9/1/2024,2024-09-17T08:28:59Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,2,AJ0060_0002.jpg,FALSE,other_or_unknown,present,People in formal attire at an awards event; BAFTA Film Awards branding and date overlay,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""other_or_unknown""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""People in formal attire at an awards event"",
+    ""BAFTA Film Awards branding and date overlay""
+  ]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,2,AJ0062_0002.jpg,TRUE,other_or_unknown,present,People gathered around a child; Text overlay describing a baby girl's rescue,"{
+  ""frame_id"": ""string"",
+  ""abstain"": ""false"",
+  ""scene_type"": [
+    ""other_or_unknown""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""People gathered around a child"",
+    ""Text overlay describing a baby girl's rescue""
+  ]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+Biden 'unwilling' to use leverage on Israel to force ceasefire | Quotable.webm,AJ0064,2,AJ0064_0002.jpg,FALSE,other_or_unknown,present,text 'QUOTABLE' in quotation marks; dark green patterned background,"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""text 'QUOTABLE' in quotation marks"", ""dark green patterned background""]
+}",8/28/2024 6:52,8/1/2024,2024-08-28T06:52:35Z,FALSE
+Biden hopes for a Gaza ceasefire by Monday | AJ #shorts.webm,AJ0067,2,AJ0067_0002.jpg,FALSE,other_or_unknown,present,US President holding ice cream; Indoor setting with text overlay,"{
+  ""frame_id"": ""1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""US President holding ice cream"", ""Indoor setting with text overlay""]
+}",2/27/2024 7:14,2/1/2024,2024-02-27T07:14:33Z,TRUE
+Biden’s ‘ironclad’ commitment to Israel has split democrat base | Quotable.webm,AJ0076,2,AJ0076_0002.jpg,FALSE,other_or_unknown,present,text 'QUOTABLE' in quotation marks; dark textured background resembling code,"{
+  ""frame_id"": ""unknown"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""text 'QUOTABLE' in quotation marks"", ""dark textured background resembling code""]
+}",8/18/2024 21:30,8/1/2024,2024-08-18T21:30:00Z,FALSE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,3,AJ0016_0003.jpg,FALSE,symbolic_or_religious_ritual,present,"15,000 Palestinian flags planted as memorial; sign with PALESTINE and Arabic text","{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""15,000 Palestinian flags planted as memorial"",
+    ""sign with PALESTINE and Arabic text""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Arrests over secret tunnel at New York synagogue.webm,AJ0054,3,AJ0054_0003.jpg,FALSE,symbolic_or_religious_ritual,present,"Religious building interior (synagogue) with ornate structure; People wearing traditional religious attire (black hats, coats)","{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Religious building interior (synagogue) with ornate structure"",
+    ""People wearing traditional religious attire (black hats, coats)""
+  ]
+}",1/10/2024 11:15,1/1/2024,2024-01-10T11:15:32Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,3,AJ0060_0003.jpg,FALSE,other_or_unknown,present,Formal evening attire; BAFTA Film Awards event,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Formal evening attire"", ""BAFTA Film Awards event""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,3,AJ0062_0003.jpg,TRUE,other_or_unknown,present,people gathered; baby rescue text overlay,"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""people gathered"", ""baby rescue text overlay""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+Biden hopes for a Gaza ceasefire by Monday | AJ #shorts.webm,AJ0067,3,AJ0067_0003.jpg,FALSE,other_or_unknown,present,US President holding ice cream cone; Casual indoor setting with text overlay,"{
+  ""frame_id"": ""0"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""US President holding ice cream cone"", ""Casual indoor setting with text overlay""]
+}",2/27/2024 7:14,2/1/2024,2024-02-27T07:14:33Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,4,AJ0016_0004.jpg,FALSE,symbolic_or_religious_ritual,present,"15,000 flags planted in memorial; cityscape background with memorial seating","{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""15,000 flags planted in memorial"", ""cityscape background with memorial seating""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Activists unfurl giant Palestinian flag at top of Northern Ireland hill | AJ #shorts.webm,AJ0025,4,AJ0025_0004.jpg,FALSE,symbolic_or_religious_ritual,present,Activists unfurling a giant flag; Grassy hilltop setting,"{
+  ""frame_id"": ""frame_0"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Activists unfurling a giant flag"",
+    ""Grassy hilltop setting""
+  ]
+}",9/17/2024 8:28,9/1/2024,2024-09-17T08:28:59Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,4,AJ0062_0004.jpg,FALSE,other_or_unknown,present,Al Jazeera logo visible; child in 'TRUST' shirt,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Al Jazeera logo visible"", ""child in 'TRUST' shirt""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,5,AJ0016_0005.jpg,FALSE,symbolic_or_religious_ritual,present,Rows of chairs as memorial installation; Panoramic cityscape with distant skyscrapers,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Rows of chairs as memorial installation"",
+    ""Panoramic cityscape with distant skyscrapers""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,5,AJ0060_0005.jpg,FALSE,other_or_unknown,present,BAFTA Film Awards ceremony setting; Individual holding award trophy,"{
+  ""frame_id"": ""image_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA Film Awards ceremony setting"", ""Individual holding award trophy""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Biden hopes for a Gaza ceasefire by Monday | AJ #shorts.webm,AJ0067,5,AJ0067_0005.jpg,TRUE,other_or_unknown,present,person in suit holding ice cream cone; indoor setting with shelves,"{
+  ""frame_id"": ""image_1"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person in suit holding ice cream cone"", ""indoor setting with shelves""]
+}",2/27/2024 7:14,2/1/2024,2024-02-27T07:14:33Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,6,AJ0016_0006.jpg,FALSE,symbolic_or_religious_ritual,present,uniformly arranged flags; memorial-like display in public space,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""uniformly arranged flags"",
+    ""memorial-like display in public space""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,7,AJ0016_0007.jpg,FALSE,symbolic_or_religious_ritual,present,hundreds of chairs arranged in rows; central chair stands out,"{
+  ""frame_id"": ""1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""hundreds of chairs arranged in rows"", ""central chair stands out""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Biden hopes for a Gaza ceasefire by Monday | AJ #shorts.webm,AJ0067,7,AJ0067_0007.jpg,FALSE,other_or_unknown,present,person holding ice cream cone in suit; indoor room with windows,"{
+  ""frame_id"": ""img_0"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person holding ice cream cone in suit"", ""indoor room with windows""]
+}",2/27/2024 7:14,2/1/2024,2024-02-27T07:14:33Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,8,AJ0016_0008.jpg,FALSE,symbolic_or_religious_ritual,present,Rows of Palestinian flags arranged in a grid; Memorial setup with a central chair,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Rows of Palestinian flags arranged in a grid"", ""Memorial setup with a central chair""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,8,AJ0060_0008.jpg,FALSE,other_or_unknown,present,BAFTA Film Awards ceremony; award winner holding trophy at podium,"{
+  ""frame_id"": ""001"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA Film Awards ceremony"", ""award winner holding trophy at podium""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,9,AJ0016_0009.jpg,FALSE,symbolic_or_religious_ritual,present,Rows of Palestinian flags arranged as a memorial; Sign with 'GAZA' and 'CRANE FOR CHILDREN',"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Rows of Palestinian flags arranged as a memorial"",
+    ""Sign with 'GAZA' and 'CRANE FOR CHILDREN'""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,9,AJ0060_0009.jpg,FALSE,other_or_unknown,present,Award recipient speaking at podium with BAFTA trophy; Red curtain backdrop and Al Jazeera logo,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [""other_or_unknown""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Award recipient speaking at podium with BAFTA trophy"", ""Red curtain backdrop and Al Jazeera logo""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Biden hopes for a Gaza ceasefire by Monday | AJ #shorts.webm,AJ0067,9,AJ0067_0009.jpg,TRUE,other_or_unknown,present,person in suit holding ice cream cone; text overlay discussing national security advisor,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person in suit holding ice cream cone"", ""text overlay discussing national security advisor""]
+}",2/27/2024 7:14,2/1/2024,2024-02-27T07:14:33Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,10,AJ0016_0010.jpg,FALSE,symbolic_or_religious_ritual,present,small Palestinian flags arranged as a memorial display; sign reading 'Gaza Mass Grave for Children',"{
+  ""frame_id"": ""lyon_gaza_memorial_20240914"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""small Palestinian flags arranged as a memorial display"",
+    ""sign reading 'Gaza Mass Grave for Children'""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,12,AJ0016_0012.jpg,FALSE,symbolic_or_religious_ritual,present,small Palestinian flags arranged in a field; sign reading 'Gaza Cimetière des Enfants MASS GRAVE FOR CHILDREN',"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""small Palestinian flags arranged in a field"", ""sign reading 'Gaza Cimetière des Enfants MASS GRAVE FOR CHILDREN'""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,12,AJ0030_0012.jpg,FALSE,symbolic_or_religious_ritual,present,People in prayer posture; Damaged buildings and debris,"{
+  ""frame_id"": ""frame_001"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""People in prayer posture"",
+    ""Damaged buildings and debris""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,12,AJ0062_0012.jpg,FALSE,other_or_unknown,present,child holding white object with red mark; Al Jazeera watermark visible,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""child holding white object with red mark"", ""Al Jazeera watermark visible""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,13,AJ0016_0013.jpg,FALSE,symbolic_or_religious_ritual,present,rows of Palestinian flags; sign reading 'MASS GRAVE FOR CHILDREN',"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""rows of Palestinian flags"", ""sign reading 'MASS GRAVE FOR CHILDREN'""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Arrests over secret tunnel at New York synagogue.webm,AJ0054,13,AJ0054_0013.jpg,FALSE,symbolic_or_religious_ritual,present,coffin visible; people in religious attire (white robes),"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""coffin visible"",
+    ""people in religious attire (white robes)""
+  ]
+}",1/10/2024 11:15,1/1/2024,2024-01-10T11:15:32Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,13,AJ0060_0013.jpg,FALSE,other_or_unknown,present,Man in formal tuxedo at awards podium; BAFTA award and Al Jazeera logo visible,"{
+  ""frame_id"": ""BAFTA_2024"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Man in formal tuxedo at awards podium"",
+    ""BAFTA award and Al Jazeera logo visible""
+  ]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,13,AJ0062_0013.jpg,TRUE,other_or_unknown,present,child holding stuffed toy; Al Jazeera watermark,"{
+  ""frame_id"": ""image_01"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""child holding stuffed toy"", ""Al Jazeera watermark""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,14,AJ0060_0014.jpg,FALSE,other_or_unknown,present,Tuxedoed person at BAFTA awards podium; Red curtains and award statue in background,"{
+  ""frame_id"": ""frame_0"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Tuxedoed person at BAFTA awards podium"", ""Red curtains and award statue in background""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,15,AJ0016_0015.jpg,FALSE,symbolic_or_religious_ritual,present,people placing small Palestinian flags; ceremonial flag display in outdoor setting,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""people placing small Palestinian flags"",
+    ""ceremonial flag display in outdoor setting""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,15,AJ0060_0015.jpg,FALSE,other_or_unknown,present,Formal tuxedo attire at podium with microphones; BAFTA award ceremony backdrop with red curtains,"{
+  ""frame_id"": ""1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Formal tuxedo attire at podium with microphones"", ""BAFTA award ceremony backdrop with red curtains""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,16,AJ0016_0016.jpg,FALSE,symbolic_or_religious_ritual,present,People placing small Palestinian flags in an open area; Large Palestinian flag visible as a symbolic element,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""People placing small Palestinian flags in an open area"",
+    ""Large Palestinian flag visible as a symbolic element""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,16,AJ0030_0016.jpg,FALSE,symbolic_or_religious_ritual,present,damaged buildings and smoke; group of people standing in mourning,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""damaged buildings and smoke"", ""group of people standing in mourning""]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,16,AJ0060_0016.jpg,FALSE,other_or_unknown,present,person in formal attire at award ceremony podium; BAFTA Film Awards 2024 branding,"{
+  ""frame_id"": ""BAFTA_2024_frame_001"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person in formal attire at award ceremony podium"", ""BAFTA Film Awards 2024 branding""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,17,AJ0016_0017.jpg,FALSE,symbolic_or_religious_ritual,present,many small Palestinian flags arranged on ground; people placing flags,"{
+  ""frame_id"": ""image1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""many small Palestinian flags arranged on ground"",
+    ""people placing flags""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,17,AJ0030_0017.jpg,FALSE,symbolic_or_religious_ritual,present,covered body on stretcher; people standing in mourning posture,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""covered body on stretcher"",
+    ""people standing in mourning posture""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,17,AJ0060_0017.jpg,FALSE,other_or_unknown,present,Awards ceremony setting; Person in formal attire holding trophy,"{
+  ""frame_id"": ""BAFTA_2024_frame"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Awards ceremony setting"", ""Person in formal attire holding trophy""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,18,AJ0016_0018.jpg,FALSE,symbolic_or_religious_ritual,present,Small Palestinian flags arranged ceremonially; Memorial-like setup with symbolic flag display,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Small Palestinian flags arranged ceremonially"",
+    ""Memorial-like setup with symbolic flag display""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,18,AJ0060_0018.jpg,FALSE,other_or_unknown,present,person in formal tuxedo at podium; BAFTA Film Awards 2024 event setting,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person in formal tuxedo at podium"", ""BAFTA Film Awards 2024 event setting""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,19,AJ0016_0019.jpg,FALSE,symbolic_or_religious_ritual,present,People arranging Palestinian flags; Large Palestinian flag visible,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""People arranging Palestinian flags"", ""Large Palestinian flag visible""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,19,AJ0060_0019.jpg,TRUE,other_or_unknown,present,Tuxedo-clad presenter at podium; BAFTA Film Awards branding,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Tuxedo-clad presenter at podium"", ""BAFTA Film Awards branding""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,19,AJ0062_0019.jpg,TRUE,other_or_unknown,present,Adult in traditional attire holding newborn; Text overlay states 'from the management of the Emirati hospital',"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Adult in traditional attire holding newborn"",
+    ""Text overlay states 'from the management of the Emirati hospital'""
+  ]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+'Who is Yahya Sinwar?' #TheTake #shorts  #podcast.webm,AJ0012,20,AJ0012_0020.jpg,FALSE,symbolic_or_religious_ritual,present,green scarf with Arabic script; crowd holding green flags,"{
+  ""frame_id"": ""image_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""green scarf with Arabic script"", ""crowd holding green flags""]
+}",8/12/2024 12:37,8/1/2024,2024-08-12T12:37:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,20,AJ0016_0020.jpg,FALSE,symbolic_or_religious_ritual,present,Palestinian flag; keffiyeh scarf,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Palestinian flag"",
+    ""keffiyeh scarf""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,20,AJ0060_0020.jpg,TRUE,other_or_unknown,present,BAFTA Film Awards event; men in formal suits at podium,"{
+  ""frame_id"": ""image_001"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA Film Awards event"", ""men in formal suits at podium""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,21,AJ0016_0021.jpg,FALSE,symbolic_or_religious_ritual,present,People placing small flags/markers on grass; Memorial-like arrangement with flags,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""People placing small flags/markers on grass"",
+    ""Memorial-like arrangement with flags""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,22,AJ0016_0022.jpg,FALSE,symbolic_or_religious_ritual,present,people arranging small items outdoors; religious attire visible,"{
+  ""frame_id"": ""img_001"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""people arranging small items outdoors"", ""religious attire visible""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,22,AJ0060_0022.jpg,FALSE,other_or_unknown,present,men in formal attire at podium; BAFTA Film Awards 2024 setting,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": [""other_or_unknown""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""men in formal attire at podium"", ""BAFTA Film Awards 2024 setting""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,23,AJ0016_0023.jpg,FALSE,symbolic_or_religious_ritual,present,Rows of small flags/objects being placed; People participating in a ceremonial activity,"{
+  ""frame_id"": ""frame_001"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Rows of small flags/objects being placed"", ""People participating in a ceremonial activity""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,24,AJ0016_0024.jpg,FALSE,symbolic_or_religious_ritual,present,memorial flags in grassy area; people placing flags in park setting,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""memorial flags in grassy area"",
+    ""people placing flags in park setting""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,24,AJ0060_0024.jpg,FALSE,other_or_unknown,present,BAFTA Film Awards ceremony setting with red curtains and formal attire; Al Jazeera logo indicating media coverage,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA Film Awards ceremony setting with red curtains and formal attire"", ""Al Jazeera logo indicating media coverage""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,25,AJ0016_0025.jpg,FALSE,symbolic_or_religious_ritual,present,small Palestinian flags arranged in park; people placing flags for memorial setup,"{
+  ""frame_id"": ""img1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""small Palestinian flags arranged in park"", ""people placing flags for memorial setup""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,25,AJ0062_0025.jpg,FALSE,other_or_unknown,present,outdoor setting with buildings; text overlay with name and quote,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""outdoor setting with buildings"", ""text overlay with name and quote""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,26,AJ0016_0026.jpg,FALSE,symbolic_or_religious_ritual,present,Multiple Palestinian flags; Al Jazeera logo visible,"{
+  ""frame_id"": ""img_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Multiple Palestinian flags"", ""Al Jazeera logo visible""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,26,AJ0060_0026.jpg,FALSE,other_or_unknown,present,Person in tuxedo at podium with microphones and BAFTA statuette; Red curtains and stage setting typical of film awards ceremony,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [""other_or_unknown""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Person in tuxedo at podium with microphones and BAFTA statuette"", ""Red curtains and stage setting typical of film awards ceremony""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,26,AJ0062_0026.jpg,FALSE,other_or_unknown,present,newborn in hospital bed; medical equipment and text overlay,"{
+  ""frame_id"": ""image_frame_001"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""newborn in hospital bed"", ""medical equipment and text overlay""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,27,AJ0060_0027.jpg,TRUE,other_or_unknown,present,man standing at podium with BAFTA award; red curtains and Al Jazeera logo,"{
+  ""frame_id"": ""frame_0"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""man standing at podium with BAFTA award"",
+    ""red curtains and Al Jazeera logo""
+  ]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,28,AJ0016_0028.jpg,FALSE,symbolic_or_religious_ritual,present,multiple Palestinian flags arranged in a field; symbolic display for national identity,"{
+  ""frame_id"": ""image_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""multiple Palestinian flags arranged in a field"",
+    ""symbolic display for national identity""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,28,AJ0030_0028.jpg,FALSE,symbolic_or_religious_ritual,present,coffin visible; grave site,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""coffin visible"",
+    ""grave site""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,29,AJ0016_0029.jpg,FALSE,symbolic_or_religious_ritual,present,Multiple Palestinian flags arranged in a field; Al Jazeera watermark visible,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Multiple Palestinian flags arranged in a field"", ""Al Jazeera watermark visible""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,29,AJ0030_0029.jpg,FALSE,symbolic_or_religious_ritual,present,Person digging hole for burial; Text overlay confirming burial of brother's body,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""Person digging hole for burial"",
+    ""Text overlay confirming burial of brother's body""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,30,AJ0016_0030.jpg,FALSE,symbolic_or_religious_ritual,present,colored smoke trails; people wearing traditional shawls,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [""symbolic_or_religious_ritual""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""colored smoke trails"", ""people wearing traditional shawls""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,30,AJ0030_0030.jpg,FALSE,symbolic_or_religious_ritual,present,digging grave; burial ceremony,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""digging grave"",
+    ""burial ceremony""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,30,AJ0062_0030.jpg,FALSE,other_or_unknown,present,Medical staff in scrubs; Neonatal incubator with newborn,"{
+  ""frame_id"": ""img_0"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Medical staff in scrubs"", ""Neonatal incubator with newborn""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,31,AJ0030_0031.jpg,FALSE,symbolic_or_religious_ritual,present,man digging a grave to bury a body; text overlay confirming burial process,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""man digging a grave to bury a body"",
+    ""text overlay confirming burial process""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,31,AJ0060_0031.jpg,TRUE,other_or_unknown,present,BAFTA Film Awards podium; Person speaking at award ceremony with red stage curtains,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""BAFTA Film Awards podium"",
+    ""Person speaking at award ceremony with red stage curtains""
+  ]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,31,AJ0062_0031.jpg,FALSE,other_or_unknown,present,newborn infant in medical care setting; Al Jazeera logo visible,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""newborn infant in medical care setting"", ""Al Jazeera logo visible""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,32,AJ0016_0032.jpg,FALSE,symbolic_or_religious_ritual,present,"colored smoke (green, red, yellow); many small flags in foreground","{
+  ""frame_id"": ""frame_001"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""colored smoke (green, red, yellow)"", ""many small flags in foreground""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,32,AJ0030_0032.jpg,FALSE,symbolic_or_religious_ritual,present,digging grave; prayer over deceased,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [""symbolic_or_religious_ritual""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""digging grave"", ""prayer over deceased""]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+BAFTA winner uses speech to addresses war in Gaza  | #AJshorts.webm,AJ0060,32,AJ0060_0032.jpg,FALSE,other_or_unknown,present,BAFTA Film Awards 2024 setting; Presenter at podium with trophy,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""BAFTA Film Awards 2024 setting"", ""Presenter at podium with trophy""]
+}",2/19/2024 12:48,2/1/2024,2024-02-19T12:48:58Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,32,AJ0062_0032.jpg,FALSE,other_or_unknown,present,newborn infant in medical equipment; hospital bed; Al Jazeera logo,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [""other_or_unknown""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""newborn infant in medical equipment"", ""hospital bed"", ""Al Jazeera logo""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,33,AJ0016_0033.jpg,FALSE,symbolic_or_religious_ritual,present,"colored smoke (green, red) in ceremonial context; numerous small flags and traditional keffiyeh headscarf","{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""colored smoke (green, red) in ceremonial context"",
+    ""numerous small flags and traditional keffiyeh headscarf""
+  ]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,33,AJ0030_0033.jpg,FALSE,symbolic_or_religious_ritual,present,person digging hole for burial; text overlay describing recovery and prayer of a body,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""person digging hole for burial"",
+    ""text overlay describing recovery and prayer of a body""
+  ]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+Al Jazeera correspondent finds brother’s body in Gaza | Al Jazeera Newsfeed.webm,AJ0030,34,AJ0030_0034.jpg,FALSE,symbolic_or_religious_ritual,present,grave being dug; tombstone structures,"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""grave being dug"", ""tombstone structures""]
+}",4/1/2024 15:30,4/1/2024,2024-04-01T15:30:39Z,TRUE
+Baby girl rescued from mother’s womb dies | #AJshorts.webm,AJ0062,34,AJ0062_0034.jpg,TRUE,other_or_unknown,present,newborn baby with medical tubing; hospital setting visible,"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""newborn baby with medical tubing"", ""hospital setting visible""]
+}",4/26/2024 20:23,4/1/2024,2024-04-26T20:23:41Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,35,AJ0011_0035.jpg,FALSE,symbolic_or_religious_ritual,present,"body bags, funeral gathering, Al Jazeera branding","{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""body bags, funeral gathering, Al Jazeera branding""
+  ]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,35,AJ0016_0035.jpg,FALSE,symbolic_or_religious_ritual,present,Palestinian flags arranged in rows; Colored smoke held by individuals,"{
+  ""frame_id"": ""0"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Palestinian flags arranged in rows"", ""Colored smoke held by individuals""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+"15,000 Palestinian flags planted in memorial to Gaza’s children | AJ #shorts.webm",AJ0016,36,AJ0016_0036.jpg,FALSE,symbolic_or_religious_ritual,present,large number of Palestinian flags arranged ceremonially; colored smoke (red/green) displayed as symbolic elements,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""large number of Palestinian flags arranged ceremonially"", ""colored smoke (red/green) displayed as symbolic elements""]
+}",9/19/2024 11:43,9/1/2024,2024-09-19T11:43:17Z,TRUE
+Arrests over secret tunnel at New York synagogue.webm,AJ0054,36,AJ0054_0036.jpg,FALSE,symbolic_or_religious_ritual,present,coffin; religious attire,"{
+  ""frame_id"": ""1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""coffin"", ""religious attire""]
+}",1/10/2024 11:15,1/1/2024,2024-01-10T11:15:32Z,TRUE
+'Houthi missile’ seen over Israeli city before interception | AJ #shorts.webm,AJ0004,37,AJ0004_0037.jpg,TRUE,other_or_unknown,present,Bright light source in dark sky; Al Jazeera logo and X.com link visible,"{
+  ""frame_id"": ""frame_001"",
+  ""abstain"": true,
+  ""scene_type"": ""other_or_unknown"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""Bright light source in dark sky"", ""Al Jazeera logo and X.com link visible""]
+}",9/27/2024 7:06,9/1/2024,2024-09-27T07:06:56Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,37,AJ0011_0037.jpg,FALSE,symbolic_or_religious_ritual,present,covered bodies; religious attire,"{
+  ""frame_id"": ""image_0"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""covered bodies"", ""religious attire""]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,39,AJ0011_0039.jpg,FALSE,symbolic_or_religious_ritual,present,covered body; religious attire,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""covered body"",
+    ""religious attire""
+  ]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,40,AJ0011_0040.jpg,FALSE,symbolic_or_religious_ritual,present,covered body in white shroud; group of people gathered in mourning line,"{
+  ""frame_id"": ""frame_001"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""covered body in white shroud"", ""group of people gathered in mourning line""]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,42,AJ0011_0042.jpg,FALSE,symbolic_or_religious_ritual,present,"covered body (funeral), people gathered in mourning, Al Jazeera logo and journalist presence","{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""covered body (funeral), people gathered in mourning, Al Jazeera logo and journalist presence""]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+'The Democratic Party leadership hijacked the word ceasefire' #TheTake #Shorts #Podcast.webm,AJ0011,44,AJ0011_0044.jpg,FALSE,symbolic_or_religious_ritual,present,covered body; crowd gathering,"{
+  ""frame_id"": ""frame_1"",
+  ""abstain"": false,
+  ""scene_type"": ""symbolic_or_religious_ritual"",
+  ""text_overlay"": ""present"",
+  ""evidence"": [""covered body"", ""crowd gathering""]
+}",8/21/2024 14:56,8/1/2024,2024-08-21T14:56:58Z,TRUE
+At least 23 killed in latest Israeli attack on Gaza school | AJ #Shorts.webm,AJ0058,45,AJ0058_0045.jpg,FALSE,symbolic_or_religious_ritual,present,body covered with blanket; people gathered around,"{
+  ""frame_id"": ""string"",
+  ""abstain"": false,
+  ""scene_type"": [
+    ""symbolic_or_religious_ritual""
+  ],
+  ""text_overlay"": ""present"",
+  ""evidence"": [
+    ""body covered with blanket"",
+    ""people gathered around""
+  ]
+}",7/16/2024 19:44,7/1/2024,2024-07-16T19:44:50Z,TRUE
+Al Jazeera reporter interrupted by Hezbollah-Israeli missiles | AJ #shorts.webm,AJ0036,51,AJ0036_0051.jpg,TRUE,other_or_unknown,present,person wearing helmet and striped clothing holding object; hazy landscape with hills and distant structures,"{
+  ""frame_id"": ""string"",
+  ""abstain"": true,
+  ""scene_type"": [""other_or_unknown""],
+  ""text_overlay"": ""present"",
+  ""evidence"": [""person wearing helmet and striped clothing holding object"", ""hazy landscape with hills and distant structures""]
+}",8/7/2024 9:39,8/1/2024,2024-08-07T09:39:11Z,TRUE
