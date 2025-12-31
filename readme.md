@@ -5,23 +5,23 @@ This repository contains the full codebase for our ICWSM submission on YouTube S
 
 ## Repository Structure
 
-- [`transcriptions/`](https://anonymous.4open.science/r/YTSC-0E2D/transcriptions/readme.md)  
+- `transcriptions/`
   Whisper transcription wrapper + environment checks
 
-- [`parsing/`](https://anonymous.4open.science/r/YTSC-0E2D/parse/)  
+- `parsing/`
   Biaffine dependency parsing (SuPar)
 
-- [`absa/`](https://anonymous.4open.science/r/YTSC-0E2D/absa/)  
+- `absa/`
   ABSA model training + inference (BERT, RoBERTa, DeBERTa, Qwen-QLoRA)
 
-- [`CV/`](https://anonymous.4open.science/r/YTSC-0E2D/CV/)  
+- `CV/`
   Scene-type taxonomy + computer-vision implementation
 
-- [`data/`](https://anonymous.4open.science/r/YTSC-0E2D/data/)  
-  Snippet for GroundTruth (APC) for ABSA + publicly available dataset on YouTube Shorts
+- `data/`
+  Snippet for GroundTruth (APC) for ABSA + publicly available dataset on YouTube Shorts + CV Sample Model ouput
 
-- [`docs/`](https://anonymous.4open.science/r/YTSC-0E2D/docs/)  
+- `docs/`
   compute resources, dataset documententation, known artifacts & biases
 
-- [`synthetic_data/`](https://anonymous.4open.science/r/YTSC-0E2D/synthetic_data/)  
+- `synthetic_data/`
   metadata, parses, ABSA predictions, and vision examples
