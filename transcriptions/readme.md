@@ -23,7 +23,7 @@ To ensure smooth, error-free execution, check the [`requirements`](requirements.
 
 ## 1. System Requirements
 - Ubuntu/Debian (tested on Ubuntu 22.04)
-- NVIDIA GPU (A100 on Jetstream2) + CUDA driver
+- NVIDIA GPU (A100 on XXX.XXX) + CUDA driver
 - `ffmpeg` (system package)
 
 ---
