@@ -1,4 +1,4 @@
-# Whisper Batch Transcription (running on Jetstream2 / Linux Debian)
+# Whisper Batch Transcription (running on XXX.XXX / Linux Debian)
 
 All transcription scripts are stored in [transcriptions/](/transcriptions). 
 - [transcriptions/transcribe_dir.sh](/transcriptions/transcribe_dir.sh): batch transcription wrapper
