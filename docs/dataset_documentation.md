@@ -28,8 +28,7 @@ To support reproducibility, we release:
 2. Dependency parsing using Biaffine-SUPAR  
 4. Filtering to content-bearing sentences  
 5. ABSA predictions  
-6. Event tuple extraction  
-7. Aggregation and outlet-level comparisons  
+6. Aggregation and outlet-level comparisons  
 
 ## Privacy & Compliance
 - No private or non-public data used
