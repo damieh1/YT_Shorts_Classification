@@ -71,4 +71,4 @@ ls /path/to/output_captions | grep '\.srt$' | wc -l
 ```
 
 ## Attribution
-The transcription script (`transcribe_dir.sh`) is adapted from open-source examples of Whisper CLI usage. It has been modified and extended for parallel batch processing on Jetstream2 A100 GPUs. We release this version under the MIT License.
+The transcription script (`transcribe_dir.sh`) is adapted from open-source examples of Whisper CLI usage. It has been modified and extended for parallel batch processing on XXX.XXX A100 GPUs. We release this version under the MIT License.
