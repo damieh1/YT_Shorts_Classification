@@ -1,6 +1,6 @@
 # YT Shorts Project
 
-This repository contains the full codebase for our ICWSM submission on YouTube Shorts from four international news outlets.
+This repository contains the full codebase for our full paper submission on YouTube Shorts from four international news outlets.
 
 
 ## Repository Structure
